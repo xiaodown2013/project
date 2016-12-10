@@ -1,0 +1,12 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'RedBook' do
+   pod 'Masonry'
+   pod 'MJExtension'
+   pod 'MJRefresh'
+   pod 'SDWebImage', '~> 3.7.5'
+   pod 'YTKNetwork'
+   pod 'YTKNetwork','~> 2.0'
+   pod 'pop'
+end
